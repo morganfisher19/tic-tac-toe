@@ -1,4 +1,4 @@
 # tic-tac-toe
 O . .
 . O .
-X . .
+X . X
